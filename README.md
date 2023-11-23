@@ -2,16 +2,13 @@
 
 **Three Project Based Strategies for Tracking/Screening the S&P 500 Index**
 
-# Steps
-
-- 1: Algorithmic Trading Basics
-- 2: API Basics and Course Configuration
-
 # Projects
 
-Project 1: Equal-Weight S&P 500 Screener - same weight for all companies in the index
-Project 2: Quantitative Momentum Screener - investing in assets that have increased in price the most.
-Project 3: Quantitative Value Screener - investing in stocks that are trading below their perceived intrinsic value.
+Project 1. Equal-Weight S&P 500 Screener - same weight for all companies in the index
+
+Project 2. Quantitative Momentum Screener - investing in assets that have increased in price the most.
+
+Project 3. Quantitative Value Screener - investing in stocks that are trading below their perceived intrinsic value.
 
 # Steps for Algorithmic Trading Process
 
@@ -20,7 +17,7 @@ Project 3: Quantitative Value Screener - investing in stocks that are trading be
 3. Backtest that Strategy
 4. Implement the Strategy in Production
 
-**Random Data Used- sandbox api token provides free random data**
+**Sandbox API token provides free random data**
 
 # API Configuration and Course Configuration
 
